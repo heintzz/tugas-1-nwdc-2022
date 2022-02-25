@@ -7,5 +7,5 @@ https://heintzz-hero-section.netlify.app/
 - https://www.figma.com/@mhd   
 - https://www.figma.com/@paperpillar
 
-mas ajarin responsif dong :)  
-sama biar gambarnya ga terlalu ngeload tu gimana ya wkwk
+
+
